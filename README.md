@@ -12,3 +12,10 @@ Application qui a pour but d'afficher des livres/magazine.
 
 * Récupéré  via une API des livres/magazines etc...
 
+
+
+## APK
+
+* [APK](https://github.com/damiencot/Bookstore/releases)
+
+
